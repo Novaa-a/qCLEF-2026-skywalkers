@@ -81,17 +81,13 @@ For QPU execution, [D-Wave Leap](https://cloud.dwavesys.com/leap/) cloud access 
 
 ## Dataset
 
-The ICM files are included in `data/`:
+The ICM and URM files are all included in `data/`:
 
-| File | Description |
-|---|---|
-| `data/feature_selection_dataset_100_ICM.csv` | 100-feature ICM (**used in the paper**) |
-| `data/feature_selection_dataset_400_ICM.csv` | 400-feature ICM |
-
-The URM (`feature_selection_dataset_URM_train.csv`, ~35 MB) is **not in git** due to size.  
-Download it and place it at `data/feature_selection_dataset_URM_train.csv`.
-
-> 📌 Official qCLEF dataset link: **pending release by the organizers**
+| File | Size | Description |
+|---|---|---|
+| `data/feature_selection_dataset_100_ICM.csv` | ~1.6 MB | 100-feature ICM (**used in the paper**) |
+| `data/feature_selection_dataset_400_ICM.csv` | ~1.9 MB | 400-feature ICM |
+| `data/feature_selection_dataset_URM_train.csv` | ~33 MB | User Rating Matrix |
 
 ---
 

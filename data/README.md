@@ -6,8 +6,9 @@ This directory contains the item feature matrices for QuantumCLEF Task 1B.
 
 | File | Size | Description |
 |---|---|---|
-| `feature_selection_dataset_100_ICM.csv` | ~1.6 MB | 100-feature Item Content Matrix (used in the paper) |
-| `feature_selection_dataset_400_ICM.csv` | ~1.9 MB | 400-feature Item Content Matrix (alternative, not used) |
+| `feature_selection_dataset_100_ICM.csv` | ~1.6 MB | 100-feature Item Content Matrix (**used in the paper**) |
+| `feature_selection_dataset_400_ICM.csv` | ~1.9 MB | 400-feature Item Content Matrix (alternative) |
+| `feature_selection_dataset_URM_train.csv` | ~33 MB | User Rating Matrix (implicit interactions) |
 
 ## Missing: URM (User Rating Matrix)
 
