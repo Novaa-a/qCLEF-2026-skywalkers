@@ -116,36 +116,6 @@ QPU execution is only available within the official QuantumCLEF D-Wave workspace
 
 ---
 
-## Citation
-
-If you use this code or paper, please cite:
-
-```bibtex
-@inproceedings{skywalkers2026qubo,
-  author    = {Bhavishya Prajapat and Alapan Kuila},
-  title     = {Balancing Relevance and Redundancy: An Optuna-Tuned {QUBO} Formulation
-               for Feature Selection in Recommender Systems},
-  booktitle = {Working Notes of {CLEF} 2026},
-  series    = {{CEUR} Workshop Proceedings},
-  year      = {2026},
-  publisher = {CEUR-WS.org}
-}
-```
-
-Please also cite the QuantumCLEF overview papers:
-
-```bibtex
-@inproceedings{overviewquantumclef2026lncs,
-  author    = {Andrea Pasin and Maurizio Ferrari Dacrema and Washington Cunha and
-               Marcos Andr{\'{e}} Gon{\c{c}}alves and Paolo Cremonesi and Nicola Ferro},
-  title     = {Overview of {QuantumCLEF} 2026},
-  booktitle = {Experimental {IR} Meets Multilinguality, Multimodality, and Interaction},
-  year      = {2026}
-}
-```
-
----
-
 ## License
 
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
