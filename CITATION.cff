@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+authors:
+  - family-names: Prajapat
+    given-names: Bhavishya
+    orcid: "https://orcid.org/0009-0006-1624-8766"
+    affiliation: "Indian Institute of Information Technology, Design and Manufacturing, Kurnool"
+  - family-names: Kuila
+    given-names: Alapan
+    affiliation: "Indian Institute of Information Technology, Design and Manufacturing, Kurnool"
+title: "Balancing Relevance and Redundancy: An Optuna-Tuned QUBO Formulation for Feature Selection in Recommender Systems"
+version: "1.0.0"
+date-released: "2026-05-28"
+license: CC-BY-4.0
+repository-code: "https://github.com/[YOUR_USERNAME]/qCLEF-2026-skywalkers"
+abstract: >
+  Code for the QuantumCLEF 2026 Task 1B submission by Team Skywalkers.
+  Implements an Optuna-tuned QUBO feature selection pipeline for Item-KNN
+  recommender systems, executed via Simulated Annealing and D-Wave QPU.
+keywords:
+  - quantum annealing
+  - feature selection
+  - recommender systems
+  - QUBO
+  - Bayesian optimization
+  - QuantumCLEF
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Prajapat
+      given-names: Bhavishya
+    - family-names: Kuila
+      given-names: Alapan
+  title: "Balancing Relevance and Redundancy: An Optuna-Tuned QUBO Formulation for Feature Selection in Recommender Systems"
+  collection-title: "Working Notes of CLEF 2026"
+  collection-type: proceedings
+  publisher: "CEUR-WS.org"
+  year: 2026
