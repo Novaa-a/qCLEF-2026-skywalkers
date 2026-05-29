@@ -19,7 +19,7 @@ This repository contains the code for our submission to [QuantumCLEF 2026 Task 1
 
 | Solver | Best NDCG@10 | Features (k) |
 |--------|-------------|--------------|
-| Simulated Annealing (SA) | **0.0287** ✅ #1 | 59 |
+| Simulated Annealing (SA) | **0.0287**  #1 | 59 |
 | Quantum Annealing (QPU) | 0.0211 | 59 |
 | Classical baseline (k=100) | 0.0226 | 100 |
 
