@@ -17,8 +17,7 @@ venv/
 env/
 .venv/
 
-# Data — ICM files are included; URM is too large for git (35 MB)
-data/feature_selection_dataset_URM_train.csv
+# Data — all dataset files are included
 *.npz
 *.pkl
 
