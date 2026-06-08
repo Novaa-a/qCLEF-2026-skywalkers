@@ -2,9 +2,6 @@
 
 **Team Skywalkers — QuantumCLEF 2026 Task 1B submission**
 
-> Bhavishya Prajapat and Alapan Kuila  
-> Indian Institute of Information Technology, Design and Manufacturing, Kurnool
-
 [![CLEF 2026](https://img.shields.io/badge/CLEF-2026-blue)](https://clef2026.clef-initiative.eu/)
 [![QuantumCLEF](https://img.shields.io/badge/QuantumCLEF-Task%201B-teal)](https://quantum-clef.github.io/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
